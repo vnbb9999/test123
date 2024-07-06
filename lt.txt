@@ -1,4 +1,13 @@
+#caotushare
 
+trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=cloudctrl.gcloudsdk.com&allowInsecure=1#%7C%20TEN%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3
+trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=cloudctrl.gcloudsdk.com&allowInsecure=1#%7C%20LQ30%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3
+trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=dl.aw.freefiremobile.com&allowInsecure=1#%7C%20TEN%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3%202
+trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=dl.aw.freefiremobile.com&allowInsecure=1#%7C%20LQ30%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3%202
+trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=dl.kgvn.garenanow.com&allowInsecure=1#%7C%20TEN%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3%203
+trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=dl.kgvn.garenanow.com&allowInsecure=1#%7C%20LQ30%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3%203
+trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=m.tiktok.com&allowInsecure=1#%7C%20TEN%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3%204
+trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=m.tiktok.com&allowInsecure=1#%7C%20LQ30%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3%204
 vless://b244e99b-f4f9-4cca-8ea3-b490dd18405d@vippro.4gsiure.click:80?type=tcp&path=%2Fanhalexfreevip&host=m.tiktok.com&headerType=http&security=none#%F0%9F%87%BB%F0%9F%87%B3-Server%20free%20n%C3%AAn%20m%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20kh%C3%B4ng%20t%E1%BA%A5n%20c%C3%B4ng%20nh%C3%A9
 vless://e93a6d68-6bbd-4688-9f82-053142b253aa@vippro.4gsiure.click:80?type=tcp&path=%2Fanhalexfreevip&host=m.tiktok.com&headerType=http&security=none#%F0%9F%87%BB%F0%9F%87%B3-SERVER1%F0%9F%92%9D
 vless://c3fcc73d-88ee-4028-b8f0-b225c9901fa1@vippro.4gsiure.click:80?type=tcp&path=%2Fanhalexfreevip&host=m.tiktok.com&headerType=http&security=none#%F0%9F%87%BB%F0%9F%87%B3-SERVER2%F0%9F%92%9D
