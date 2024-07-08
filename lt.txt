@@ -1,5 +1,12 @@
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJEdXlOaGF0dnBuIiwKICAiYWRkIjogIjE2MC4yMi4xNTguMjI5IiwKICAicG9ydCI6IDQ0MywKICAiaWQiOiAiMmNmMWY3ZTQtZmE4OS00NzJkLWE1ZGYtMWVhZjQwNTU3Y2M0IiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgImhvc3QiOiAibS50aWt0b2suY29tIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0=
 
 #nhomzalo
+vless://37211a3a-4523-4ede-a8bd-33ffe039a4f0@www.tiktok.com.thaibochet2007.online:80/?type=tcp&path=%2F&host=thaibochet.tiktokcdn.com&headerType=http&security=none#VLESS%F0%9F%87%BB%F0%9F%87%B3ROUTER-openwrt
+vmess://eyJhZGQiOiJzaW5nMi50ZW52cG5kYXRhLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS50aWt0b2suY29tIiwiaWQiOiJmNmM0MjQyNC1mN2EyLTRiMjMtOGI4My0wMzNjZTEwYWE5NWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVudnBuZGF0YS5jb20iLCJwb3J0IjoiODAiLCJwcyI6IlNJTkdBUE9SRSAz8J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://f6c42424-f7a2-4b23-8b83-033ce10aa95f@sing2.tenvpndata.com:443?security=tls&headerType=none&type=tcp&sni=m.tiktok.com#SINGAPORE+4%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJhZGQiOiJzaW5nMS50ZW52cG5kYXRhLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS50aWt0b2suY29tIiwiaWQiOiJmNmM0MjQyNC1mN2EyLTRiMjMtOGI4My0wMzNjZTEwYWE5NWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVudnBuZGF0YS5jb20iLCJwb3J0IjoiODAiLCJwcyI6IlNJTkdBUE9SRSAx8J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://f6c42424-f7a2-4b23-8b83-033ce10aa95f@sing1.tenvpndata.com:443?security=tls&headerType=none&type=tcp&sni=m.tiktok.com#SINGAPORE+2%F0%9F%87%B8%F0%9F%87%AC
+
 
 vless://YXV0bzphYWE1MWNiNy1jZTQ3LTRmOTQtOGUyOC04NmQ5YjEzOGM1ZDBAMTAzLjc5LjE0MS4yMDA6ODA?remarks=%F0%9F%87%BB%F0%9F%87%B3%20%5BVLess%5D%20%F0%9D%97%A0%F0%9D%97%AE%CC%81%F0%9D%98%86%20%F0%9D%97%96%F0%9D%97%B5%F0%9D%98%82%CC%89%20%F0%9D%9F%AD%F0%9D%97%A6%20%F0%9F%87%BB%F0%9F%87%B3&obfsParam=m.tiktok.com&path=/VPNDATA.xYx&obfs=websocket&tfo=1
 vless://YXV0bzphYWE1MWNiNy1jZTQ3LTRmOTQtOGUyOC04NmQ5YjEzOGM1ZDBAMTAzLjc1LjE4Ny4xODU6ODA?remarks=%F0%9F%87%BB%F0%9F%87%B3%20%5BVLess%5D%20%F0%9D%97%A0%F0%9D%97%AE%CC%81%F0%9D%98%86%20%F0%9D%97%96%F0%9D%97%B5%F0%9D%98%82%CC%89%20%F0%9D%9F%AE%F0%9D%97%A6%20%F0%9F%87%BB%F0%9F%87%B3&obfsParam=m.tiktok.com&path=/VPNDATA.xYx&obfs=websocket
