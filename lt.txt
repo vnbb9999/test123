@@ -11,7 +11,19 @@ vmess://YXV0bzowNTg0OTc0MC1jM2E5LTQ5N2QtYTk1My01Mzc0NmM5OTRjMzlANDIuOTYuMTguMTQ6
 vless://YXV0bzphYWE1MWNiNy1jZTQ3LTRmOTQtOGUyOC04NmQ5YjEzOGM1ZDBAMTAzLjc5LjE0MS4yMDA6ODA?remarks=%F0%9F%87%BB%F0%9F%87%B3%20%5BVLess%5D%20%F0%9D%97%A0%F0%9D%97%AE%CC%81%F0%9D%98%86%20%F0%9D%97%96%F0%9D%97%B5%F0%9D%98%82%CC%89%20%F0%9D%9F%AD%F0%9D%97%A6%20%F0%9F%87%BB%F0%9F%87%B3&obfsParam=m.tiktok.com&path=/VPNDATA.xYx&obfs=websocket&tfo=1
 vless://YXV0bzphYWE1MWNiNy1jZTQ3LTRmOTQtOGUyOC04NmQ5YjEzOGM1ZDBAMTAzLjc1LjE4Ny4xODU6ODA?remarks=%F0%9F%87%BB%F0%9F%87%B3%20%5BVLess%5D%20%F0%9D%97%A0%F0%9D%97%AE%CC%81%F0%9D%98%86%20%F0%9D%97%96%F0%9D%97%B5%F0%9D%98%82%CC%89%20%F0%9D%9F%AE%F0%9D%97%A6%20%F0%9F%87%BB%F0%9F%87%B3&obfsParam=m.tiktok.com&path=/VPNDATA.xYx&obfs=websocket
 
-
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.26.99:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+5+HN+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Vina
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.26.219:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+4+HN++%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1Vina
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.26.99:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+5+HN+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Viettel
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.26.219:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+4+HN+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Viettel
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.39.121:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+1+HCM+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Vina
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.26.91:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+6+HN+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Viettel
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.39.116:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+3+HCM+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Vina
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.37.171:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+2+HCM+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Vina
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.37.171:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+2+HCM+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Viettel
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.39.116:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+3+HCM+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Viettel
+vless://8c890ebc-d441-4404-af2d-10faa5323b85@103.82.39.121:80?fragment=&security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#Sever+1+HCM+%F0%9F%87%BB%F0%9F%87%B3%E2%9A%A1%E2%9A%A1%E2%9A%A1+Viettel
+vmess://eyJhZGQiOiJhcGkyLXQzLnRpa3Rvay5zdGF0aWMuNWdzaWV1dmlwLnNldmVyY2xvdWQuYXNpYS41Z3NpZXV2aXAuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJmcmFnbWVudCI6IiIsImZyYWdtZW50X3YxIjoiIiwiaG9zdCI6Im0udGlrdG9rLmNvbSIsImlkIjoiYjAzODk2NTctNDM0Ny00NmEzLTg5NGQtZjEwOGI4ZDNjMWQxIiwibmV0Ijoid3MiLCJwYXRoIjoiNWdzaWV1dmlwIiwicG9ydCI6IjgwIiwicHMiOiLwn5KWIEfDs2kgOiBWaXAgTWF4IDIwMCBD4bunIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJhcGkyLXQzLnRpa3Rvay5zdGF0aWMuNWdzaWV1dmlwLnNldmVyY2xvdWQuYXNpYS41Z3NpZXV2aXAuc2hvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJmcmFnbWVudCI6IiIsImZyYWdtZW50X3YxIjoiIiwiaG9zdCI6Im0
 #caotushare
 
 trojan://7a736983-d24d-4f38-966b-df0ee4472e5c@103.82.24.247:443/?type=tcp&security=tls&sni=cloudctrl.gcloudsdk.com&allowInsecure=1#%7C%20TEN%20%7C%20VIETTEL%20VPN%20TLS%F0%9F%87%BB%F0%9F%87%B3
