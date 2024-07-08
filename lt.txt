@@ -6,7 +6,7 @@ vmess://eyJhZGQiOiJzaW5nMi50ZW52cG5kYXRhLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAi
 trojan://f6c42424-f7a2-4b23-8b83-033ce10aa95f@sing2.tenvpndata.com:443?security=tls&headerType=none&type=tcp&sni=m.tiktok.com#SINGAPORE+4%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJhZGQiOiJzaW5nMS50ZW52cG5kYXRhLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibS50aWt0b2suY29tIiwiaWQiOiJmNmM0MjQyNC1mN2EyLTRiMjMtOGI4My0wMzNjZTEwYWE5NWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVudnBuZGF0YS5jb20iLCJwb3J0IjoiODAiLCJwcyI6IlNJTkdBUE9SRSAx8J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://f6c42424-f7a2-4b23-8b83-033ce10aa95f@sing1.tenvpndata.com:443?security=tls&headerType=none&type=tcp&sni=m.tiktok.com#SINGAPORE+2%F0%9F%87%B8%F0%9F%87%AC
-
+vmess://YXV0bzowNTg0OTc0MC1jM2E5LTQ5N2QtYTk1My01Mzc0NmM5OTRjMzlANDIuOTYuMTguMTQ6ODA?remarks=GAMESUPER1%20%F0%9F%91%91&obfsParam=m.tiktok.com&path=/&obfs=websocket&alterId=0
 
 vless://YXV0bzphYWE1MWNiNy1jZTQ3LTRmOTQtOGUyOC04NmQ5YjEzOGM1ZDBAMTAzLjc5LjE0MS4yMDA6ODA?remarks=%F0%9F%87%BB%F0%9F%87%B3%20%5BVLess%5D%20%F0%9D%97%A0%F0%9D%97%AE%CC%81%F0%9D%98%86%20%F0%9D%97%96%F0%9D%97%B5%F0%9D%98%82%CC%89%20%F0%9D%9F%AD%F0%9D%97%A6%20%F0%9F%87%BB%F0%9F%87%B3&obfsParam=m.tiktok.com&path=/VPNDATA.xYx&obfs=websocket&tfo=1
 vless://YXV0bzphYWE1MWNiNy1jZTQ3LTRmOTQtOGUyOC04NmQ5YjEzOGM1ZDBAMTAzLjc1LjE4Ny4xODU6ODA?remarks=%F0%9F%87%BB%F0%9F%87%B3%20%5BVLess%5D%20%F0%9D%97%A0%F0%9D%97%AE%CC%81%F0%9D%98%86%20%F0%9D%97%96%F0%9D%97%B5%F0%9D%98%82%CC%89%20%F0%9D%9F%AE%F0%9D%97%A6%20%F0%9F%87%BB%F0%9F%87%B3&obfsParam=m.tiktok.com&path=/VPNDATA.xYx&obfs=websocket
